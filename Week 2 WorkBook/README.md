@@ -13,7 +13,7 @@ I created my own interactive Tableau dashboard, incorporating filters, calculate
 ![Tableau dashboard showing city percentage change bar charts and UK map](Week2vis3.png)
 
 **Health Dataset Analysis:**
-Using a health-related dataset, I conducted analysis to identify trends and key insights that could support organisational decision-making. I examined patterns across locations and time periods to determine areas requiring additional support or intervention. This task enhanced my ability to extract actionable insights from public sector data.
+Using a health-related dataset, I conducted analysis to identify trends and key insights that could support organisational decision-making. I examined patterns across locations and time periods to determine areas requiring additional support or intervention. I also created charts such as Average BMI VS Life Expectantcy. This task enhanced my ability to extract actionable insights from public sector data.
 
 ![Scatter plot showing the relationship between Average BMI and Life Expectancy by Continent](Week2vis4.png)
 
@@ -30,4 +30,4 @@ Throughout the week, I focused on designing dashboards that were not only techni
 **Power BI & Skillable Labs:**
 In addition to Tableau, I completed structured labs in Skillable for Power BI, where I created reports and practised building interactive dashboards. I worked with data modelling features, relationships between tables, and report-level filters to produce professional business reports. This improved my understanding of how Power BI supports enterprise-level reporting and data-driven strategy.
 
-![Power BI Sales Performance Dashboard Lab Completion](Week2vis6.jpg)
+![Power BI Sales Performance Dashboard Lab Completion](Week2vis6.png)
