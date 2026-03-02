@@ -1,4 +1,4 @@
-#Week 5 Summary
+# Week 5 Summary
 In Week 5, I developed my understanding of data protection laws, cloud computing concepts, and Microsoft Azure. I explored how organisations can securely manage customer and business data while transitioning from manual systems to cloud-based solutions.
 
 ### Key Learnings & Projects
