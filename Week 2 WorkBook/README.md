@@ -13,7 +13,7 @@ I created my own interactive Tableau dashboard, incorporating filters, calculate
 ![Tableau dashboard showing city percentage change bar charts and UK map](Week2vis3.png)
 
 **Health Dataset Analysis:**
-Using a health-related dataset, I conducted analysis to identify trends and key insights that could support organisational decision-making. I examined patterns across locations and time periods to determine areas requiring additional support or intervention. This task enhanced my ability to extract actionable insights from public sector data.
+Using a health-related dataset, I conducted analysis to identify trends and key insights that could support organisational decision-making. I examined patterns across locations and time periods to determine areas requiring additional support or intervention. I also created charts such as Average BMI and Life Expectantcy. This task enhanced my ability to extract actionable insights from public sector data.
 
 ![Scatter plot showing the relationship between Average BMI and Life Expectancy by Continent](Week2vis4.png)
 
