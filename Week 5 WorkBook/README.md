@@ -11,12 +11,16 @@ I also researched and compared major cloud providers, including:
 * Google Cloud Platform
 This included outlining their features, functions, and typical business use cases in a comparison table.
 
+![Infographic explaining cloud computing, its business benefits, and alternatives](Week5vis2.png)
+
 #### Cloud Models & Service Offerings
 I researched and explained different cloud service models:
 * IaaS (Infrastructure as a Service)
 * PaaS (Platform as a Service)
 * SaaS (Software as a Service)
 I also explored cloud deployment models, including public, private, hybrid, and community cloud, and explained how each could be used in a business environment.
+
+![Table explaining IaaS with real-world use cases like hosting websites and scaling servers](Week5vis3.png)
 
 #### Data Protection & Legal Compliance
 A key focus was understanding UK data laws and cybersecurity legislation. I researched and applied:
@@ -26,6 +30,8 @@ A key focus was understanding UK data laws and cybersecurity legislation. I rese
 * The Police and Justice Act 2006
 This helped me understand how organisations must lawfully collect, store, and protect personal data, particularly customer information.
 
+![Table describing Sections 1, 2, and 3 of the Computer Misuse Act with examples](Week5vis4.png)
+
 #### Azure Labs & Certification Practice
 I completed hands-on labs in Azure exploring:
 * Relational and non-relational data
@@ -33,6 +39,8 @@ I completed hands-on labs in Azure exploring:
 * Cloud storage solutions
 * Identity and access management
 I also completed the DP-900 (Azure Data Fundamentals) practice exam and achieved a score of 80%, demonstrating my understanding of core Azure data concepts.
+
+![Azure Data Fundamentals DP-900 practice exam score showing 80%](Week5vis5.png)
 
 #### 1500-Word Case Study: “Paws & Whiskers”
 The main assessment was a structured 1500-word report analysing how a small pet shop could transition from spreadsheets to Azure. Within the report, I:
