@@ -6,4 +6,4 @@ I gained practical experience using tools such as Tableau and Power BI for visua
 
 Overall, the bootcamp has significantly increased my confidence in handling data end-to-end — from collection and cleaning, to analysis, visualisation, and cloud storage. It has strengthened my analytical thinking, problem-solving ability, and technical discipline, while preparing me for roles in data, software, or technology-focused environments.
 
-![overview of course contents](readmevis.png)
+![overview of course contents](readmevis2.png)
